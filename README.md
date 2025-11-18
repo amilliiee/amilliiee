@@ -66,7 +66,4 @@
   <a href="https://github.com/Anmol-TheDev/Music_app">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Anmol-TheDev&repo=Music_app&theme=transparent&title_color=A3A3A3&text_color=FFFFFF&description_lines_count=4" />
   </a>
-  <a href="https://github.com/amilliiee/devchallenges">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amilliiee&repo=devchallenges&theme=transparent&title_color=A3A3A3&text_color=FFFFFF&description_lines_count=4" />
-  </a>
 </p>
