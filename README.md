@@ -44,7 +44,7 @@
   <a href="https://github.com/NHCarrigan-Mentorship/amelia-sylvester">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NHCarrigan-Mentorship&repo=amelia-sylvester&theme=transparent&title_color=A3A3A3&text_color=FFFFFF&description_lines_count=4"/>
   </a>
-  <a href="https://github.com/amilliiee/ao">
+  <a href="https://github.com/amilliiee/aoc">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amilliiee&repo=aoc&theme=transparent&title_color=A3A3A3&text_color=FFFFFF&description_lines_count=4" />
   </a>
 </p>
