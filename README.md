@@ -44,8 +44,8 @@
   <a href="https://github.com/NHCarrigan-Mentorship/amelia-sylvester">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NHCarrigan-Mentorship&repo=amelia-sylvester&theme=transparent&title_color=A3A3A3&text_color=FFFFFF&description_lines_count=4"/>
   </a>
-  <a href="https://github.com/amilliiee/aoc">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amilliiee&repo=aoc&theme=transparent&title_color=A3A3A3&text_color=FFFFFF&description_lines_count=4" />
+  <a href="https://github.com/amilliiee/pokemon_cli">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amilliiee&repo=pokemon_cli&theme=transparent&title_color=A3A3A3&text_color=FFFFFF&description_lines_count=4" />
   </a>
 </p>
 
@@ -57,13 +57,13 @@
   <a href="https://github.com/amilliiee/little-rocket-lab-crafting">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amilliiee&repo=little-rocket-lab-crafting&theme=transparent&title_color=A3A3A3&text_color=FFFFFF&description_lines_count=4" />
   </a>
+  <a href="https://github.com/amilliiee/aoc">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amilliiee&repo=aoc&theme=transparent&title_color=A3A3A3&text_color=FFFFFF&description_lines_count=4" />
+  </a>
   <a href="https://github.com/OpenCodeChicago/hacktoberfest-2025-frontend">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OpenCodeChicago&repo=hacktoberfest-2025-frontend&theme=transparent&title_color=A3A3A3&text_color=FFFFFF&description_lines_count=4" />
   </a>
   <a href="https://github.com/ChiragAJain/Git-Done">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChiragAJain&repo=Git-Done&theme=transparent&title_color=A3A3A3&text_color=FFFFFF&description_lines_count=4" />
-  </a>
-  <a href="https://github.com/Anmol-TheDev/Music_app">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Anmol-TheDev&repo=Music_app&theme=transparent&title_color=A3A3A3&text_color=FFFFFF&description_lines_count=4" />
   </a>
 </p>
