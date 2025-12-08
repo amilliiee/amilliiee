@@ -38,14 +38,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=28&duration=4000&pause=1000&color=486DE6&vCenter=true&width=650&lines=Current+Projects+%26+Language+Breakdown%3A)](https://git.io/typing-svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amilliiee&layout=compact&theme=transparent&title_color=A3A3A3&text_color=FFFFFF&hide_border=true&custom_title=Amilliiee%27s%20Top%20Languages&&card_width=300)
+![Top Langs](https://github-readme-stats-amilliiee.vercel.app/api/top-langs/?username=amilliiee&layout=compact&theme=transparent&title_color=A3A3A3&text_color=FFFFFF&hide_border=true&custom_title=Amilliiee%27s%20Top%20Languages&&card_width=300)
 
 <p align="left">
   <a href="https://github.com/NHCarrigan-Mentorship/amelia-sylvester">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NHCarrigan-Mentorship&repo=amelia-sylvester&theme=transparent&title_color=A3A3A3&text_color=FFFFFF&description_lines_count=4"/>
+    <img align="center" src="https://github-readme-stats-amilliiee.vercel.app/api/pin/?username=NHCarrigan-Mentorship&repo=amelia-sylvester&theme=transparent&title_color=A3A3A3&text_color=FFFFFF&description_lines_count=4"/>
   </a>
   <a href="https://github.com/amilliiee/pokemon_cli">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amilliiee&repo=pokemon_cli&theme=transparent&title_color=A3A3A3&text_color=FFFFFF&description_lines_count=4" />
+    <img align="center" src="https://github-readme-stats-amilliiee.vercel.app/api/pin/?username=amilliiee&repo=pokemon_cli&theme=transparent&title_color=A3A3A3&text_color=FFFFFF&description_lines_count=4" />
   </a>
 </p>
 
@@ -55,15 +55,15 @@
 
 <p>
   <a href="https://github.com/amilliiee/little-rocket-lab-crafting">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amilliiee&repo=little-rocket-lab-crafting&theme=transparent&title_color=A3A3A3&text_color=FFFFFF&description_lines_count=4" />
+    <img align="center" src="https://github-readme-stats-amilliiee.vercel.app/api/pin/?username=amilliiee&repo=little-rocket-lab-crafting&theme=transparent&title_color=A3A3A3&text_color=FFFFFF&description_lines_count=4" />
   </a>
   <a href="https://github.com/amilliiee/aoc">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amilliiee&repo=aoc&theme=transparent&title_color=A3A3A3&text_color=FFFFFF&description_lines_count=4" />
+    <img align="center" src="https://github-readme-stats-amilliiee.vercel.app/api/pin/?username=amilliiee&repo=aoc&theme=transparent&title_color=A3A3A3&text_color=FFFFFF&description_lines_count=4" />
   </a>
   <a href="https://github.com/OpenCodeChicago/hacktoberfest-2025-frontend">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OpenCodeChicago&repo=hacktoberfest-2025-frontend&theme=transparent&title_color=A3A3A3&text_color=FFFFFF&description_lines_count=4" />
+    <img align="center" src="https://github-readme-stats-amilliiee.vercel.app/api/pin/?username=OpenCodeChicago&repo=hacktoberfest-2025-frontend&theme=transparent&title_color=A3A3A3&text_color=FFFFFF&description_lines_count=4" />
   </a>
   <a href="https://github.com/ChiragAJain/Git-Done">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChiragAJain&repo=Git-Done&theme=transparent&title_color=A3A3A3&text_color=FFFFFF&description_lines_count=4" />
+    <img align="center" src="https://github-readme-stats-amilliiee.vercel.app/api/pin/?username=ChiragAJain&repo=Git-Done&theme=transparent&title_color=A3A3A3&text_color=FFFFFF&description_lines_count=4" />
   </a>
 </p>
