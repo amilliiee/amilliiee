@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=28&duration=4000&pause=1000&color=486DE6&vCenter=true&repeat=false&width=435&lines=About+Me)](https://git.io/typing-svg)
 
 > [!IMPORTANT]
-> Hi, I'm **amilliiee**, or as I'm known in person, **Amelia**!
+> Hi, I'm **Amelia**!
 >
 > Electrical Engineer who fell in love with web development. I combine analytical problem-solving with creating user-friendly web applications. Constantly learning new languages and frameworks to expand my skills and diversify my toolkit — currently challenging myself with more complex React websites and exploring Svelte & SvelteKit.
 
